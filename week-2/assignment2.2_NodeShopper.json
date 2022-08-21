@@ -1,0 +1,28 @@
+{
+    "customer": [
+      {
+        "_id": "001",
+        "firstName": "Kailee",
+        "lastName": "Stephens",
+        "dateOfBirth": "07/15/1997",
+        "username": "Ksteph14",
+        "invoice": [
+          {
+            "invoice_id": "01000",
+            "createDate": "03/08/2022",
+            "shipDate": "03/08/2022",
+            "subtotal": 66.14,
+            "lineitem": [
+              {
+                "_id": "86439",
+                "productName": "Course Training Book",
+                "price": 66.14,
+                "qty": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
